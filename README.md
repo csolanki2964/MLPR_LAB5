@@ -46,3 +46,5 @@ To detect human faces in an image and cluster them into groups using K-Means clu
 
 > 
 
+<img width="522" height="619" alt="Twmplate face" src="https://github.com/user-attachments/assets/e22ee140-f546-45da-8316-b6374538dd26" />
+
