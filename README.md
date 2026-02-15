@@ -12,7 +12,7 @@ To detect human faces in an image and cluster them into groups using K-Means clu
 - Feature Extraction (Mean Hue & Saturation)  
 - Unsupervised Learning using K-Means  
 - Data Visualization using Matplotlib  
----
+  
 
 ##  Libraries Used
 
